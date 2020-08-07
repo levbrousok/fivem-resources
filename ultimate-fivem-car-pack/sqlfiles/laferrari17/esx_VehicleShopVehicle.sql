@@ -1,0 +1,1 @@
+INSERT INTO `vehicles` (`name`, `model`, `price`, 'category') VALUES ('LaFerrari', 'laferrari17', '190000');

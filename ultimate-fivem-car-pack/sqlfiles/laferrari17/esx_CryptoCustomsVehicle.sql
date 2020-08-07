@@ -1,0 +1,1 @@
+INSERT INTO `cardealer_vehicles` (`id`, `vehicle`, `price`) VALUES ('0', 'laferrari17', '190000');
