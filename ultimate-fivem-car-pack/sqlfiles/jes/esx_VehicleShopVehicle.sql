@@ -1,1 +1,1 @@
-INSERT INTO `vehicles` (`name`, `model`, `price`, 'category') VALUES ('Koenigsegg Jesko', 'jes', '190000');
+INSERT INTO `vehicles` (`name`, `model`, `price`, 'category') VALUES ('Koenigsegg Jesko', 'jes', 'super', '1000000');
